@@ -1,0 +1,95 @@
+#menu {
+    text-align: right;
+    color: red;
+    padding: 5px;
+    padding-right: 100px;
+    margin-right: 40px;
+    word-spacing: 20px;
+    position: fixed;
+    z-index: 10;
+    width: 95%;
+}
+#about{
+    display: flex;
+    flex-direction: row;
+}
+.about-picture {
+    width: 40%;
+    height: 90%;
+    padding-left: 25px;
+}
+#expe{
+    display: flex;
+    margin-top: 350px;
+    padding-top: 100px;
+    padding-right: 10px;
+}
+
+.expe-picture {
+    margin-left: 820px;
+}
+#expeinfo{
+    text-align: right;
+    padding-left: 5px;
+    margin-left: 5px;
+    color: red;
+}
+#edu{
+    display: flex;
+    margin-top: 350px;
+    padding-top: 100px;
+    padding-right: 10px;
+}
+.edu-picture {
+    margin-left: 350px;
+}
+#eduinfo{
+    text-align: center;
+    padding-left: 5px;
+    margin-left: 5px;
+    color: green;
+}
+#skill{
+    display: flex;
+    margin-top: 400px;
+    padding-top: 100px;
+}    
+.skill-picture {
+    margin-left: 5px;
+}
+#skillinfo{
+    text-align: center;
+    padding-left: 5px;
+    margin-left: 5px;
+    color: purple
+}
+#inter{
+    display: flex;
+    margin-top: 350px;
+    padding-top: 100px;
+    padding-right: 10px;
+}    
+.inter-picture {
+    margin-left: 800px; 
+}
+#interinfo{
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 10px;
+    color: chocolate
+}
+#award{
+    display: flex;
+    margin-top: 350px;
+    padding-top: 100px;
+    padding-right: 10px;
+}
+.award-picture {
+    margin-left: 350px;
+}
+#awardinfo{
+    text-align: center;
+    padding-left: 5px;
+    margin-left: 5px;
+    color: purple
+}
